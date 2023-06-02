@@ -1,7 +1,6 @@
 ### Hello! 👋
 🌱 I’m currently learning JavaScript and React. </br>
 💻 I’m looking for developer Front-end job.</br>
-📫 How to reach me: kleckst@gmail.com
 ## 
 
 🇧🇷 </br>
